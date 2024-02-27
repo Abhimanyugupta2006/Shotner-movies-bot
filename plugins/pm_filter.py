@@ -1311,11 +1311,33 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
         await query.answer(MSG_ALRT)
-
+    elif query.data == "about":
+        buttons = [[
+            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
+        ],[
+             InlineKeyboardButton('🛰 ʀᴇɴᴅᴇʀɪɴɢ ɪɴꜰᴏ ☁️', callback_data='rendering_info')
+        ],[            
+            InlineKeyboardButton('© ᴅɪsᴄʟᴀɪᴍᴇʀ​ ©', callback_data='dics_btn')
+        ],[
+            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
+        ]]
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.ABOUT_TXT.format(temp.B_NAME),
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
     elif query.data == "filters":
         buttons = [[
             InlineKeyboardButton('Mᴀɴᴜᴀʟ FIʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('Aᴜᴛᴏ FIʟᴛᴇʀ', callback_data='autofilter')
+            InlineKeyboardButton('Aᴜᴛᴏ FIʟᴛᴇʀ', callback_data='source')
         ],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='help'),
             InlineKeyboardButton('Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs', callback_data='global_filters')
@@ -1367,29 +1389,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
-            reply_markup=reply_markup,
-            parse_mode=enums.ParseMode.HTML
-        )
-    elif query.data == "about":
-        buttons = [[
-            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
-        ],[
-             InlineKeyboardButton('🛰 ʀᴇɴᴅᴇʀɪɴɢ ɪɴꜰᴏ ☁️', callback_data='rendering_info')
-        ],[            
-            InlineKeyboardButton('© ᴅɪsᴄʟᴀɪᴍᴇʀ​ ©', callback_data='dics_btn')
-        ],[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
-        ]]
-        await client.edit_message_media(
-            query.message.chat.id, 
-            query.message.id, 
-            InputMediaPhoto(random.choice(PICS))
-        )
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.ABOUT_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
