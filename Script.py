@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Johnny134'>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑</a></b>"""
  
     ABOUTT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-🪧 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/filefilterv1bot>🆂︎🆄︎🅿︎🅴︎🆁︎ 🅵︎🅰︎🆂︎🆃︎</a>
+🪧 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/filefilterv1bot>𝙎𝙐𝙋𝙀𝙍 𝙁𝘼𝙎𝙏</a>
 
  🗣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Johnny134'>👨🏼‍🦯 Johny</a>
  
