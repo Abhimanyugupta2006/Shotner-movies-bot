@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
  🗣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Johnny134'>👨🏼‍🦯 Johny</a>
  
- 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://t.me/NibrasHacked/'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
+ 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
  
  🏪 ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/+QnlHzMv3xfE3NGQ1'>🔒 Private VPS ☔️</a></b>"""
 
@@ -226,9 +226,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🪧 {file_name}
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
+         
     <a href="https://t.me/movies_bot_suport">❤‍🔥 ᴄʜᴀɴɴᴇʟ ❤‍🔥</a>
-╚══════════════════╝</b>"""
+     </b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
