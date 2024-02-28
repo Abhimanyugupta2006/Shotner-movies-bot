@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
  🗣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Johnny134'>👨🏼‍🦯 Johny</a>
  
- 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
+ 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongdb.com'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
  
  🏪 ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/+QnlHzMv3xfE3NGQ1'>🔒 Private VPS ☔️</a></b>"""
 
@@ -33,7 +33,7 @@ Fork our repository and give star ⭐- <a href='https://t.me/+QnlHzMv3xfE3NGQ1'>
 2. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ.
 3. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏꜰ 64 ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.
 Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
-• /filter - <code>ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
+• /filter - ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ
 • /filters - <code>ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
@@ -226,9 +226,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🪧 {file_name}
 ═══════════════════ 
 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-         
-    <a href="https://t.me/movies_bot_suport">❤‍🔥 ᴄʜᴀɴɴᴇʟ ❤‍🔥</a>
-     </b>"""
+
+<a href="https://t.me/movies_bot_suport">❤‍🔥 ᴄʜᴀɴɴᴇʟ ❤‍🔥</a></b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
