@@ -233,21 +233,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <a href="https://t.me/movies_bot_suport">❤‍🔥 ᴄʜᴀɴɴᴇʟ ❤‍🔥</a></b>"""
     IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey}
+<b>Tʜᴇ Rᴇꜱᴜʟᴛꜱ Fᴏʀ ☞ <a href={url}>{title}</a>
 
-IMDb Data:
+Rᴇǫᴜᴇsᴛᴇᴅ Bʏ ☞ {message.from_user.mention}
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
-📀 RunTime: {runtime} Minutes
-📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-⏰ Result Shown in: {remaining_seconds} 
+ʀᴇsᴜʟᴛ sʜᴏᴡ ɪɴ ☞ {remaining_seconds
 
-💁‍♂️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲 : {message.from_user.mention}</b>"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ ☞ : None 
+
+⚠️ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ 🗑️</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
