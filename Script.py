@@ -1,8 +1,11 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {} 👋🏻,
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, 𝙸 𝙰𝙼 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻 𝙰𝚄𝚃𝙾 𝚆𝙸𝚃𝙷 𝙻𝙸𝙽𝙺𝚂𝙷𝙾𝚁𝚃𝙴𝙽𝙴𝚁 𝙱𝙾𝚃 
+    START_TXT = """<b>Hey {} 👋🏻,
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, 
+💫 I AM POWERFUL AUTO-FILTER BOt,
 
-𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝙰𝚂 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝚆𝙸𝚃𝙷 𝙻𝙸𝙽𝙺𝚂𝙷𝙾𝚁𝚃𝙴𝙽𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙸𝚃'𝚂 𝙴𝙰𝚂𝚈 𝚃𝙾 𝚄𝚂𝙴 𝙸𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝙰𝚂 𝙰𝙳𝙼𝙸𝙽 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙸 𝚆𝙸𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝚃𝙷𝙴𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙻𝙸𝙽𝙺𝚂𝙷𝙾𝚁𝚃𝙴𝙽𝙴𝚁....</b>"""
+✨ I CAN PROVIDE MOVIES AND WEB SERIES.
+
+✨ ITS EASY TO USE ME. JUST ADD ME TO YOUR GROUP AND MAKE ME ADMIN.😍</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
