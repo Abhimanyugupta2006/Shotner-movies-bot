@@ -1,6 +1,7 @@
 class script(object):
     START_TXT = """<b>Hey {} 👋🏻,
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, 
+
 💫 I AM POWERFUL AUTO-FILTER BOt,
 
 ✨ I CAN PROVIDE MOVIES AND WEB SERIES.
