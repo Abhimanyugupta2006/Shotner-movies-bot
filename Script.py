@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
 
 ✨ I CAN PROVIDE MOVIES AND WEB SERIES.
 
-✨ ITS EASY TO USE ME. JUST ADD ME TO YOUR GROUP AND MAKE ME ADMIN.😍</b>"""
+✨ ITS EASY TO USE ME! JUST ADD ME TO YOUR GROUP AND MAKE ME ADMIN.😍</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
@@ -18,7 +18,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
  🗣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Johnny134'>👨🏼‍🦯 Johny</a>
  
- 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongdb.com'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
+ 📄 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='http://jerrybot.000.pe/'>♻️ ᴍᴏɴɢᴏ ᴅʙ</a>
  
  🏪 ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/+QnlHzMv3xfE3NGQ1'>🔒 Private VPS ☔️</a></b>"""
 
@@ -161,14 +161,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
-    I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
-ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
-
-    MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
-
-    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
-
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    
 
     SHORTLINK_INFO = """
 <b>𝐓𝐨 𝐔𝐬𝐞 𝐎𝐮𝐫 𝐁𝐨𝐭 𝐚𝐬 𝐌𝐨𝐧𝐞𝐲 𝐁𝐚𝐧𝐤 𝐁𝐲 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐋𝐢𝐧𝐤 𝐀𝐧𝐝 𝐔𝐫𝐥. 
