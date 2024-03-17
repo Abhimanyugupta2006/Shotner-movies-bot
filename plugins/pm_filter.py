@@ -1853,13 +1853,13 @@ async def auto_filter(client, msg, spoll=False):
         ]
         btn.insert(0, 
             [
-                InlineKeyboardButton("🌐 ꜱᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}"),
+                InlineKeyboardButton("♻️ ꜱᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}"),
                 InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{key}"),
                 InlineKeyboardButton("Sᴇᴀsᴏɴs", callback_data=f"seasons#{key}")
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("⛔️ ʜᴏᴡ ᴛᴏ ᴏᴩᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔️", url=f"https://telegram.me/{temp.U_NAME}")
+            InlineKeyboardButton("⛔️ ʜᴏᴡ ᴛᴏ ᴏᴩᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔️", url="https://t.me/movies_bot_suport/644")
         ])
     else:
         btn = []
