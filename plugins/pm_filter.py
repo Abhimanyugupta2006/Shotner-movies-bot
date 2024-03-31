@@ -1263,15 +1263,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                    InlineKeyboardButton('🍿 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 🍿', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🍂', url="https://t.me/movies_bot_suport"),
+                    InlineKeyboardButton('🌼 UPDATE 🌼', url="https://t.me/movies_bot_suport"),
                     InlineKeyboardButton('📢 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+cerHnWHOIPo4ODM9")
                 ],[
-                    InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🍄 Hᴇʟᴘ 🍄', callback_data='help'),
+                    InlineKeyboardButton('🔰 Aʙᴏᴜᴛ 🔰', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💰', callback_data="shortlink_info")
+                    InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1859,7 +1859,7 @@ async def auto_filter(client, msg, spoll=False):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("⛔️ ʜᴏᴡ ᴛᴏ ᴏᴩᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔️", url="https://t.me/movies_bot_suport/644")
+            InlineKeyboardButton("⛔️ ʜᴏᴡ ᴛᴏ ᴏᴩᴇɴ ᴛʜɪꜱ ʟɪɴᴋ ⛔️", url="https://telegra.ph/No-tutorial-link-set-03-27")
         ])
     else:
         btn = []
