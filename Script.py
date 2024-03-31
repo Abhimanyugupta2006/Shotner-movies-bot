@@ -123,9 +123,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     STATUS_TXT = """<b>📁 Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 👥 Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+
 🗣️ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 👨🏼‍🚀 Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-🚀 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+
+
+🆓️ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -465,13 +468,13 @@ Your time is valuable, Stop watching ads and simply avoid the stupidity
 
 Prime Membership Progress
 
-1 month - 15 Rs
+1 month - 13 Rs
 
-3 Months – 50 RS
+3 Months – 30 RS
 
-6 months - 95 Rs
+6 months - 62 Rs
 
-12 Months - 300 Rs [1 Month Free Trial]
+12 Months - 100 Rs [1 Month Free Trial]
 
 ♛ UPI ID »»————> 
 
