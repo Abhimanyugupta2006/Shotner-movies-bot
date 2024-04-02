@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://t.me/movies_bot_suport",
-    "repository": "https://github.com/Kushalhk/TG_BOTZ",
+    "repository": "https://t.me/movies_bot_suport",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
