@@ -40,15 +40,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                    InlineKeyboardButton('🍟 ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩꜱ 🍟', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🍂 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🍂', url="https://t.me/movies_bot_suport"),
-                    InlineKeyboardButton('📢 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+cerHnWHOIPo4ODM9")
+                    InlineKeyboardButton('🔎 ꜱᴇᴀʀᴄʜ  🔍', url="https://t.me/movies_bot_suport"),
+                    InlineKeyboardButton('🌼 ᴜᴩᴅᴀᴛᴇꜱ 🌼', url="https://t.me/movies_bot_suport")
                 ],[
-                    InlineKeyboardButton('👻 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('👾 Aʙᴏᴜᴛ', callback_data='about')
+                    InlineKeyboardButton('🍄 ʜᴇʟᴩ 🍄', callback_data='help'),
+                    InlineKeyboardButton('🔰 ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💰 Eᴀʀɴ Mᴏɴᴇʏ 💰', callback_data="shortlink_info")
+                    InlineKeyboardButton('💰 𝗘𝗔𝗥𝗡 𝗠𝗢𝗡𝗘𝗬 💰', callback_data="shortlink_info")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAJnLmTuFB3tbjsPSKlQYaKfUux_RBtzAAIEAAPBJDExieUdbguzyBAeBA") 
