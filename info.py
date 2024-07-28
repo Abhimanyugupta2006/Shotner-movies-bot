@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '28284211'))
-API_HASH = environ.get('API_HASH', '6b0afc140b8534c45de9dc77b7d37415')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5634679884:AAH6KjE4JbS5rD3ljyZSJZJx6I-rbz5WYG4")
+API_ID = int(environ.get('API_ID', '21200668'))
+API_HASH = environ.get('API_HASH', 'ef9f094c8c36b029fd8f1218635e09f2)
+BOT_TOKEN = environ.get('BOT_TOKEN', "6596710985:AAGrGMNAUKIhBfvGNnhbucjLQMLW-i8Dyno")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -61,7 +61,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movies_bot_suport')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/movies_bot_suport/644')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001828353017'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movies_bot_suport')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
